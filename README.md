@@ -19,5 +19,5 @@ This is a student website for CPW219 to learn the fundamentals of ASP.NET Core M
 
 ## Author
 - Created by: Anthony Brunner
-- Final Project - CPW 219 .NET Web Programming
+- In Lecture: eCommerce - CPW 219 .NET Web Programming
 - Instructor: Joseph Ortiz
